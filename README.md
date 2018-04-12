@@ -1,1 +1,1 @@
-# doc_gen
+# Document Generator
